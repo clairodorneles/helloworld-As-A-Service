@@ -1,0 +1,22 @@
+{
+    "name": "hwaas",
+    "version": "0.1.0",
+    "description": "Hello World as a Service",
+    "main": "app/index.js",
+    "scripts": {
+      "build": "cp index-src.js app/index.js"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git://github.com/clairodorneles/helloworld-As-A-Service.git"
+    },
+    "author": "Clairo Dorneles",
+    "license": "proprietary",
+    "bugs": {
+      "url": "https://github.com/clairodorneles/helloworld-As-A-Service/issues"
+    },
+    "homepage": "https://github.com/clairodorneles/helloworld-As-A-Service",
+    "dependencies": {
+      "ejs": "^2.4.1"
+    }
+  }
